@@ -1,11 +1,11 @@
-PCBNEW-LibModule-V1  Mon 24 Aug 2015 06:10:35 PM PDT
+PCBNEW-LibModule-V1  Tue 25 Aug 2015 01:06:33 PM PDT
 # encoding utf-8
 Units mm
 $INDEX
 NEO-M8N
 $EndINDEX
 $MODULE NEO-M8N
-Po 0 0 0 15 55DBC086 00000000 ~~
+Po 0 0 0 15 55DCCAC3 00000000 ~~
 Li NEO-M8N
 Sc 0
 AR 
@@ -43,13 +43,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -6.1 -4.8
-$EndPAD
-$PAD
-Sh "13" R 1.8 0.8 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po -12.2 -11.8
 $EndPAD
 $PAD
 Sh "13" R 1.8 0.8 0 0 0
@@ -133,7 +126,7 @@ Sh "24" R 1.8 0.8 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -17.4 15.4
+Po -6.1 8.1
 $EndPAD
 $PAD
 Sh "1" R 1.8 0.8 0 0 0
