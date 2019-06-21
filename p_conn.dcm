@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JACK_TRS_3PINS
+D audio jack TRS 6 pins
+K audio jack connector TRS
+$ENDCMP
+#
+$CMP JACK_TRS_6PINS
+D audio jack TRS 6 pins
+K audio jack connector TRS
+$ENDCMP
+#
+$CMP XLR3
+D 3 pins
+K CONN
+$ENDCMP
+#
+$CMP XLR3_CGND
+D 3 pins
+K CONN
+$ENDCMP
+#
+#End Doc Library

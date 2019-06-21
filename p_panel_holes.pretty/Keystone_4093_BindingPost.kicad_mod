@@ -1,0 +1,10 @@
+(module Keystone_4093_BindingPost (layer F.Cu) (tedit 5B40EF27)
+  (fp_text reference REF** (at 0 -7.35) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Keystone_4093_BindingPost (at 0 7.8) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_arc (start 0 0) (end -5.54 -3.11) (angle 301.3) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -5.54 -3.11) (end -5.54 3.11) (layer Edge.Cuts) (width 0.15))
+)
